@@ -9,7 +9,7 @@ The notebook provides:
 - ✅ Usage of **Hugging Face Transformers** and/or **Google PaLI-Gemma 2** for multimodal inference and fine-tuning.
 
 ---
-## [Video Walkthrough](https://youtu.be/_OS7BDH9Cdk?si=70xFpXm9Y2rhQgbM)
+## [Video Walkthrough](https://youtu.be/tEwnSdtL5X4)
 
 ## 🚀 **How to Run**
 
